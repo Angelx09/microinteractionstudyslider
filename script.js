@@ -13,7 +13,7 @@ slider.oninput = function() {
 
     if(value == 2){
         emoji.innerHTML = "(╥_╥)";
-        message.innerHTML = "Dont be sad.";
+        message.innerHTML = "Saddddd.";
     }
 
     if(value == 3){
